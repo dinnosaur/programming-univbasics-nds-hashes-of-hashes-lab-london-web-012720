@@ -30,6 +30,8 @@
 #   sub_category: nil
 # }
 
+Animals
+
 def naming_system
   # Remember:
   #  Kingdom
@@ -41,6 +43,6 @@ def naming_system
   #  Species
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
-Join = {}
-return Join
+Animals = {}
+return Animals
   end
