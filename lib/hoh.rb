@@ -30,7 +30,15 @@
 #   sub_category: nil
 # }
 
-Animals = {}
+Animals = {label: "Kingdom",
+  sub_category: {
+     label: "Phylum",
+     sub_category: {
+      label: "Class",
+        sub_category: { label: "order"
+          }
+     }
+   }}
 
 def naming_system
   # Remember:
