@@ -35,7 +35,7 @@ Animals = {label: "Kingdom",
      label: "Phylum",
      sub_category: {
       label: "Class",
-        sub_category: { label: "order"
+        sub_category: { label: "Order"
           }
      }
    }}
